@@ -11,9 +11,9 @@ from tkinter import Frame, END, filedialog as fd, Scrollbar, Text
 
 # Programa: Formatting
 # Versão: 1.0.00
-# Descrição: Formatação expressões SQL e JSON
+# Descrição: Formatação de expressões SQL e JSON
 # Data Inicio: 21/10/2023
-# Data Revisão: 19/11/2023
+# Data Revisão: 21/11/2023
 # Autor: Eduardo Gomes Júnior
 
 Caminho = os.path.dirname(os.path.realpath(__file__))
