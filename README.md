@@ -33,6 +33,34 @@ pip install packaging
 
 Após os pré-requisitos acima realizar o clone do repositório: https://github.com/EduardoGomesJr/Formatting
 
+## Instalação:
+
+A instalação da aplicação pode ser realizada de duas formas:
+
+•	Instalador da aplicação:
+Descompactar o arquivo Install_Formatting.ZIP e na sequencia executar o Install_Formatting.EXE, seguir os passos da instalação.
+
+![Imagem12](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Imagem_12.png)
+
+Ao final, será criado a pasta do aplicativo e o atalho para a rotina na área de trabalho. Executando a rotina o aplicativo é carregado, pasta utilizar as funcionalizadas explicadas no item 3 do documento.  
+
+•	Instalando manualmente e acionando via PYTHON:
+Para quem tem conhecimento em PYTHON, basta acesso o GIT: https://github.com/EduardoGomesJr/Formatting
+
+1.	Realizar o DOWNLOAD dos seguintes arquivos.
+2.	Criar uma pasta chamada Formatting na unidade que for executar a aplicação.
+3.	Copiar o SCRIPT PYTHON Formatting.py 
+4.	Copiar a pasta ICONES
+5.	Instalar as dependências: 
+6.	pip install customtkinter
+7.	pip install sqlparse
+8.	pip install Pillow
+9.	pip install packaging
+
+Após isso executar o Formatting.py 
+
+
+
 ## Funcionalides:
 
 Após executar a aplicação será exibida a interface abaixo:
