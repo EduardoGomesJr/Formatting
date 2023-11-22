@@ -9,4 +9,28 @@ Com a expressão formatada corretamente a analise/compreensão torna-se mais fá
 
 ## Tecnologia Usada:
 DONWLOAD do PYTHON: https://www.python.org/downloads/
+
 Instalador: Inno Setup Compiler (baixado do site: https://jrsoftware.org/isdl.php)
+
+A aplicação precisa de quatro bibliotecas externas para o funcionamento. 
+
+- customtkinter (criação de interfaces modernas no Tkinter) 
+- sqlparse (parce SQL)
+- Pillow (tratamento de imagens)
+- packaging (pacotes diversos)
+
+Detalhes no arquivo: requirements.txt
+
+Para instalar ambas utilizar PIP: acesse o prompt de comando (como administrador) e execute os comandos abaixo:
+
+pip install customtkinter 
+
+pip install sqlparse
+
+pip install Pillow
+
+pip install packaging
+
+Após os pré-requisitos acima realizar o clone do repositório: https://github.com/EduardoGomesJr/Formatting
+
+
