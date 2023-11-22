@@ -45,17 +45,18 @@ Descompactar o arquivo Install_Formatting.ZIP e na sequencia executar o Install_
 Ao final, será criado a pasta do aplicativo e o atalho para a rotina na área de trabalho. Executando a rotina o aplicativo é carregado, pasta utilizar as funcionalizadas explicadas no item 3 do documento.  
 
 •	Instalando manualmente e acionando via PYTHON:
-Para quem tem conhecimento em PYTHON, basta acesso o GIT: https://github.com/EduardoGomesJr/Formatting
+Para quem tem conhecimento em PYTHON:
 
-1.	Realizar o DOWNLOAD dos seguintes arquivos.
-2.	Criar uma pasta chamada Formatting na unidade que for executar a aplicação.
-3.	Copiar o SCRIPT PYTHON Formatting.py 
-4.	Copiar a pasta ICONES
-5.	Instalar as dependências: 
-6.	pip install customtkinter
-7.	pip install sqlparse
-8.	pip install Pillow
-9.	pip install packaging
+Realizar o DOWNLOAD dos seguintes arquivos.
+
+1.	Criar uma pasta chamada Formatting na unidade que for executar a aplicação.
+2.	Copiar o SCRIPT PYTHON Formatting.py 
+3.	Copiar a pasta ICONES
+4.	Instalar as dependências: 
+5.	pip install customtkinter
+6.	pip install sqlparse
+7.	pip install Pillow
+8.	pip install packaging
 
 Após isso executar o Formatting.py 
 
