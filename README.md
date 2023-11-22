@@ -50,6 +50,46 @@ texto informado nos quadros de textos (tanto na expressão original como formata
 
  ![Imagem03](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Imagem_03.png)
 
+ Já os botões SQL e JSON realizam a formatação do texto informado no quadro.
+
+ ![Imagem04](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Imagem_04.png)
+
+ Caso no quadro de expressão original seja informada um expressão SQL o botão de formatação deverá ser o SQL e caso seja uma JSON o botão JSON. A expressão informada no quadro original será formatada no quadro de expressão formatada. 
+
+Observação: na biblioteca usada para formatar expressões SQL não possui nenhum tratamento de erro ou seja após a formatação a mesma tenta adequar a expressão, se a 
+expressão original tiver algum erro ela não tratada ou exibida no quadro de expressão formatada. 
+Agora a biblioteca que formatada a expressão JSON, possui tratamento de erro, caso esteja errado algum dados ou faltando alguma informação (exemplo: “,”,”{“ ) a mesma será tratada. 
+A expressão original não é formatada será mostrada a inconsistência dela no quadro expressão formatada e no quadro expressão original será marcado em amarelo a linha que apresenta a 
+inconsistência, somente após a correção que a mesma pode ser formatada.
+
+Toda expressão formatada é gravada dentro da pasta “HISTORÍCO”. Caso haja necessidade de revisar alguma basta pressionar o botão abaixo: 
+
+![Imagem05](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Imagem_05.png)
+
+Na sequencia será aberto a interface de seleção:
+
+![Imagem06](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Imagem_06.png)
+
+O histórico selecionado será carregado na parte de texto: expressão original. Por DEFAULT sempre vem o histórico SQL, mas para carregar os demais basta mudar a opção de arquivo. 
+
+O nome do histórico segue a seguinte nomenclatura: ANO+MÊS+DIA+Hora+minuto+segundos + extensão correspondente do texto formatado (.SQL ou .JSON).
+
+As expressões devem ser informadas nas caixas de textos abaixo:
+
+![Imagem07](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Imagem_07.png)
+
+Lado esquerdo: recebe a expressão original
+Lado direito: expressão formatada (conforme opção: SQL ou JSON).
+
+A barra de rolagem vertical/horizontal movimenta ambas as caixas de texto para facilitar a analise da expressão.
+
+
+
+
+
+
+
+
  
 
 
