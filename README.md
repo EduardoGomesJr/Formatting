@@ -478,9 +478,11 @@ Expressão exemplo 02: com tratamento de inconsistência
   ]
 }
 
-![Imagem11](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Imagem_11.png)
-
 Comparando inconsistência apresentada com outro editor (VS-CODE).
 
-![Imagem12](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Imagem_12.png)
+![Imagem11](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Imagem_11.png)
+
+
+
+
 
