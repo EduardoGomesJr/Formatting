@@ -37,18 +37,18 @@ Após os pré-requisitos acima realizar o clone do repositório: https://github.
 
 Após executar a aplicação será exibida a interface abaixo:
 
-![Imagem01](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Figura01.png)
+![Imagem01](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Figura_01.png)
 
 A primeira linha da aplicação possui um GET para realizar pesquisas (marcações) dentro dos quadros de textos:
 
-![Imagem02](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Figura02.png)
+![Imagem02](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Figura_02.png)
 
 Esse GET (campo) trabalha em conjunto com o botão localizar, após informar um texto no campo e pressionar o botão, caso exista o 
 texto informado nos quadros de textos (tanto na expressão original como formatada) o texto é localizado e marcado em vermelho. 
 
 	O próximo botão é o limpar. Como o nome sugere ele limpa ambos os quadros de textos.
 
- ![Imagem03](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Figura03.png)
+ ![Imagem03](https://github.com/EduardoGomesJr/Formatting/blob/main/Imagens/Figura_03.png)
 
  
 
